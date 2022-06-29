@@ -1,0 +1,16 @@
+{
+	"$schema": "https://json.schemastore.org/web-manifest-combined.json",
+	"name": "TestSite",
+	"short_name": "TestSite",
+	"start_url": ".",
+	"display": "standalone",
+	"background_color": "#fff",
+	"description": "service worker などを使わずマニフェストだけ使ってみるテスト",
+	"icons": [
+		{
+			"src": "icon.jpeg",
+			"sizes": "64x64",
+			"type": "image/jpeg"
+		}
+	]
+}
