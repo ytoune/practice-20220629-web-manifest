@@ -11,6 +11,12 @@
 			"src": "icon.jpeg",
 			"sizes": "64x64",
 			"type": "image/jpeg"
+		},
+		{
+			"src": "icon2.jpeg",
+			"sizes": "398x398",
+			"type": "image/jpeg",
+			"purpose": "any"
 		}
 	]
 }
